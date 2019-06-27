@@ -1,0 +1,31 @@
+body {
+    font-family: 'verdana';
+    background-color: #efefef;
+    text-align: center;
+    color: #333;
+}
+
+.csv-upload__form {
+    width: 320px;
+    margin: 30px auto 0;
+}
+
+.csv-upload__field-label {
+    display: inline-block;
+}
+
+.csv-upload__field-input {
+    display: none;
+}
+
+.csv-upload__btn {
+    display: inline-block;
+    font-size: 18px;
+    margin: 20px 8px;
+    background-color: #333;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+}
